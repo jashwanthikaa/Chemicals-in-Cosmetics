@@ -1,0 +1,77 @@
+commit d295df7b0f0d36c7d85cd11da1f70ba6456526cd
+Author: Jashwanthikaa Duraikannu Rajendiran <136444037+jashwanthikaa@users.noreply.github.com>
+Date:   Wed Jan 15 21:23:10 2025 +0000
+
+    commit in the correction of file name
+
+commit b6b721144c18d34ffc3777ae1c53ff93fd80fc92
+Author: jashwanthikaa <jashwanthika06@gmail.com>
+Date:   Wed Jan 15 21:15:37 2025 +0000
+
+    Added a .pptx file to the Chemicals in Cosmetics folder
+
+commit 287e9a786307cce2ba2fabeca0fa67f982988ee4
+Author: Jashwanthikaa Duraikannu Rajendiran <136444037+jashwanthikaa@users.noreply.github.com>
+Date:   Mon Jan 13 03:44:27 2025 +0000
+
+    Commit made in the Conversion of the Series to a Data Frame for Seaborn in visualization of Bar Plot
+
+commit 610b2d41c4be21d851a4da8b1776f44b4ac3f0f4
+Author: jashwanthikaa <jashwanthika06@gmail.com>
+Date:   Sun Jan 12 19:54:34 2025 +0000
+
+    Added a file to the Chemicals in Cosmetics folder
+
+commit adae633e6d29afe8d7ccc8657fbda7ee739d7b2b
+Author: jashwanthikaa <jashwanthika06@gmail.com>
+Date:   Sun Jan 12 19:53:16 2025 +0000
+
+    Added a file to the Chemicals in Cosmetics folder
+
+commit de05124b1dbcd2468d920bbdcebaaff59f071eb2
+Author: Jashwanthikaa Duraikannu Rajendiran <136444037+jashwanthikaa@users.noreply.github.com>
+Date:   Sun Jan 12 19:49:21 2025 +0000
+
+    Commit with Key Insights
+    "Extracted key insights, including the top chemicals, companies, and distribution trends. Finalized visualizations and cleaned code."
+
+commit 94dbcb4365e89dcebc81e0a1e8ff08fbe68bca34
+Author: Jashwanthikaa Duraikannu Rajendiran <136444037+jashwanthikaa@users.noreply.github.com>
+Date:   Sun Jan 12 19:45:58 2025 +0000
+
+    Commit for Data Visualizations
+    "Created visualizations including trend analysis, bar plots for chemical distribution, and pie charts for top companies."
+    "Added scatter plots, heatmaps, pair plots, stacked bar plots, and a word cloud for deeper insights into the data."
+
+commit 9910f1565ed0d6b21005da0582dcb7fc63980b25
+Author: Jashwanthikaa Duraikannu Rajendiran <136444037+jashwanthikaa@users.noreply.github.com>
+Date:   Sun Jan 12 19:41:18 2025 +0000
+
+    Commit for Initial Analysis and Summary Statistics
+    "Added statistical summaries, top chemicals analysis, and chemical counts by company."
+
+commit 7c9f77d87a5b5fbf93fd5339af643fe27c9c223e
+Author: Jashwanthikaa Duraikannu Rajendiran <136444037+jashwanthikaa@users.noreply.github.com>
+Date:   Sun Jan 12 19:39:15 2025 +0000
+
+    Commit for Data Cleaning and Transformation
+    "Implemented data cleaning with missing value handling, dataset merging, and duplicate removal."
+
+commit 75ce2f2da5792683eaca6e15e55995954068beb5
+Author: Jashwanthikaa Duraikannu Rajendiran <136444037+jashwanthikaa@users.noreply.github.com>
+Date:   Sun Jan 12 19:37:55 2025 +0000
+
+    Update README.md
+
+commit 8dce88c1674e55301a6ce27f9ba90a9fa164fb93
+Author: Jashwanthikaa Duraikannu Rajendiran <136444037+jashwanthikaa@users.noreply.github.com>
+Date:   Sun Jan 12 19:33:20 2025 +0000
+
+    Initial Commit for Data Loading and Exploration
+    "Added scripts for loading and exploring the chemicals and categories datasets, including summaries and structure checks."
+
+commit 99e7d2fa86835e7a3223bfac7b75072e2d7b6357
+Author: Jashwanthikaa Duraikannu Rajendiran <136444037+jashwanthikaa@users.noreply.github.com>
+Date:   Sun Jan 12 19:27:42 2025 +0000
+
+    Initial commit
